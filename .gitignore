@@ -210,3 +210,9 @@ IntelMissionControl/resources/META-INF/MANIFEST.MF
 #embedded external libs
 external/maven-local-repository/
 /IntelMissionControl/ant/imc-mapping.txt
+.settings/org.eclipse.m2e.core.prefs
+InsightService/.classpath
+InsightService/.settings/org.eclipse.core.resources.prefs
+InsightService/.settings/org.eclipse.jdt.core.prefs
+InsightService/.settings/org.eclipse.m2e.core.prefs
+IntelMissionControl/.settings/org.eclipse.m2e.core.prefs
